@@ -20,7 +20,7 @@ export default function Home() {
         </p>
         <div className="flex flex-col sm:flex-row gap-2">
           <Button asChild>
-            <Link target="_blank" href="https://github.com/ruphaa/next-shadcn-starter">Get Started</Link>
+            <Link target="_blank" href="https://github.com/ruphaa/next-shadcn-starter?tab=readme-ov-file#-getting-started">Get Started</Link>
           </Button>
           <Button variant="outline" asChild>
             <Link target="_blank" href="https://github.com/ruphaa/next-shadcn-starter">View on GitHub</Link>
