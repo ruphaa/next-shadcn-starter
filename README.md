@@ -69,3 +69,5 @@ MIT — do whatever you want ✨
 
 ## Preview
 
+<img width="1542" alt="Screenshot 2025-06-14 at 1 13 36 PM" src="https://github.com/user-attachments/assets/6aa7aba2-757d-4415-917e-b4761cec0727" />
+
