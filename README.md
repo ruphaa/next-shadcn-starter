@@ -26,6 +26,7 @@ cd my-app
 npm install
 ```
 
+
 ### 3. Run the development server
 
 ```bash
@@ -69,5 +70,5 @@ MIT — do whatever you want ✨
 
 ## Preview
 
-<img width="1542" alt="Screenshot 2025-06-14 at 1 13 36 PM" src="https://github.com/user-attachments/assets/6aa7aba2-757d-4415-917e-b4761cec0727" />
+<img width="1725" alt="Screenshot 2025-06-14 at 1 22 46 PM" src="https://github.com/user-attachments/assets/4b1a890b-0fb1-4fa7-b179-783d818c1c6d" />
 
